@@ -89,7 +89,7 @@ class StanbicMM {
 		
 		// If user passed in custom post parameters
 		if (count($post_params) > 5)
-			$post_params['advanced'] = true;
+			$post_params['advanced'] = 'true';
 			
 		$response = self::http(TRANSACTIONS_EXPORT_URL, $post_params, true);
 		// echo $response; #debug
