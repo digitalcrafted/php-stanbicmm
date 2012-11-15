@@ -8,7 +8,7 @@ Usage
 
 The usage is as simple as this
 
-  try {
+	try {
 		$mm = new StanbicMM('2348181019104', '0000');
 		print_r($mm->get_transactions());
 	} catch(SyntaxException $e) {
