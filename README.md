@@ -1,7 +1,7 @@
 php-stanbicmm
 ================
 
-A php port of the [python library] (https://github.com/digitalcraftstudios/python-stanbicmm) providing an interface to interact with the [Stanbic Mobile Money service] (http://mobilemoney.stanbic.com/)
+A php port of the [python library] (https://github.com/timbaobjects/python-stanbicmm) providing an interface to interact with the [Stanbic Mobile Money service] (http://mobilemoney.stanbic.com/)
 
 Usage
 =====
